@@ -1,4 +1,4 @@
-!#/bin/bash
+#!/bin/bash
 
 # The Following Script can Extract a raw text of the IP Ranges
 
