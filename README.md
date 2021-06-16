@@ -1,4 +1,4 @@
-# EDL Palo ALto
+# EDL Palo Alto
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
