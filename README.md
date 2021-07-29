@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
-Un simple repositorio donde voy almacenando Scripts en BASH que obtienen datos de IP para posteriormente colocar en alguna EDL de Firewall
+Un simple repositorio donde se almacena Scripts en BASH que obtienen datos de Ranges IP para posteriormente colocar en alguna EDL de Firewall.
 
 
 ## 🚀 Get Started
